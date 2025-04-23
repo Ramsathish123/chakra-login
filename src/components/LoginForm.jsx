@@ -51,7 +51,7 @@ import {
             <form onSubmit={handleSubmit}>
               <Stack spacing={4}>
                 <FormControl id="email" isRequired>
-                  <FormLabel>Email </FormLabel>
+                  <FormLabel>Email id</FormLabel>
                   <Input
                     type="email"
                     value={email}
